@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-09-27T12:58:23.7100742Z;True|2022-09-17T10:18:18.1286898+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
